@@ -21,7 +21,7 @@ creases the number of discrete latent states used, and speeds up plan-
 ning without any sacrifices in task success rate.
 
 <p align="center" style="background-color:#0d1117; padding:24px;">
-    <img src="https://github.com/henrijacgeiss/compact_sym/blob/main/assets/Thumbnail_high_res.png" width=500>
+    <img src="https://github.com/henrijacgeiss/compact_sym/blob/main/assets/Thumbnail_background.png" width=500>
 </p>
 
 Code release coming soon...
