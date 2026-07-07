@@ -20,6 +20,6 @@ multi-object manipulation environment, CompactSym consistently de-
 creases the number of discrete latent states used, and speeds up plan-
 ning without any sacrifices in task success rate.
 
-![Thumbnail](https://github.com/henrijacgeiss/compact_sym/assets/Thumbnail_high_res.png)
+<img src=“https://github.com/henrijacgeiss/compact_sym/assets/Thumbnail_high_res.png”>
 
 Code release coming soon...
